@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="224634" started-at="2019-09-21T02:27:55Z" finished-at="2019-09-21T02:31:39Z">
+    <groups>
+    </groups>
+    <test name="comNexFlowdemo" duration-ms="224634" started-at="2019-09-21T02:27:55Z" finished-at="2019-09-21T02:31:39Z">
+      <class name="Com.TestCase.Verified">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:Com.TestCase.Verified@36d64342]" name="beforetest" is-config="true" duration-ms="22199" started-at="2019-09-21T02:27:55Z" finished-at="2019-09-21T02:28:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="Fileupload()[pri:1, instance:Com.TestCase.Verified@36d64342]" name="Fileupload" duration-ms="77338" started-at="2019-09-21T02:28:17Z" finished-at="2019-09-21T02:29:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fileupload -->
+        <test-method status="PASS" signature="schedulaedemo()[pri:2, instance:Com.TestCase.Verified@36d64342]" name="schedulaedemo" duration-ms="16024" started-at="2019-09-21T02:29:34Z" finished-at="2019-09-21T02:29:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- schedulaedemo -->
+        <test-method status="PASS" signature="Inner_page()[pri:3, instance:Com.TestCase.Verified@36d64342]" name="Inner_page" duration-ms="16061" started-at="2019-09-21T02:29:50Z" finished-at="2019-09-21T02:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Inner_page -->
+        <test-method status="PASS" signature="verifyValidLogin()[pri:4, instance:Com.TestCase.Verified@36d64342]" name="verifyValidLogin" duration-ms="92150" started-at="2019-09-21T02:30:06Z" finished-at="2019-09-21T02:31:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:Com.TestCase.Verified@36d64342]" name="aftertest" is-config="true" duration-ms="825" started-at="2019-09-21T02:31:38Z" finished-at="2019-09-21T02:31:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- Com.TestCase.Verified -->
+    </test> <!-- comNexFlowdemo -->
+  </suite> <!-- Default Suite -->
+</testng-results>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="comNexFlowdemo(failed)">
+    <classes>
+      <class name="Com.TestCase.Verified">
+        <methods>
+          <include name="Inner_page"/>
+          <include name="aftertest"/>
+          <include name="Fileupload"/>
+          <include name="beforetest"/>
+          <include name="verifyValidLogin"/>
+          <include name="schedulaedemo"/>
+        </methods>
+      </class> <!-- Com.TestCase.Verified -->
+    </classes>
+  </test> <!-- comNexFlowdemo(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

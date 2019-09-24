@@ -1,0 +1,12 @@
+/**
+@author Subhradip Sinha
+Date start Coding : 18/09/2019
+Used in Maven TestNG Format
+*/
+
+1) URL : http://192.168.100.51:8283
+2) Search TestBox Test: it is working or not Lots of variable used..
+3) Upper right Side Tap button working or not.(Exe: Schedular,File_Uploader,data_pipelines, Dc)
+4) Click Right Upper Dc Hover tab Account Settings, or LogOut is working or not.
+5) Right Side Footer Triger Tab is working or not.
+6) Click Triger button Add File or Upload File is working or not.
